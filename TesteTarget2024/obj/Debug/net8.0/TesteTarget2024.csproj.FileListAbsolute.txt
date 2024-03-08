@@ -1,0 +1,14 @@
+C:\dev\TesteTarget2024\TesteTarget2024\bin\Debug\net8.0\TesteTarget2024.exe
+C:\dev\TesteTarget2024\TesteTarget2024\bin\Debug\net8.0\TesteTarget2024.deps.json
+C:\dev\TesteTarget2024\TesteTarget2024\bin\Debug\net8.0\TesteTarget2024.runtimeconfig.json
+C:\dev\TesteTarget2024\TesteTarget2024\bin\Debug\net8.0\TesteTarget2024.dll
+C:\dev\TesteTarget2024\TesteTarget2024\bin\Debug\net8.0\TesteTarget2024.pdb
+C:\dev\TesteTarget2024\TesteTarget2024\obj\Debug\net8.0\TesteTarget2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TesteTarget2024\TesteTarget2024\obj\Debug\net8.0\TesteTarget2024.AssemblyInfoInputs.cache
+C:\dev\TesteTarget2024\TesteTarget2024\obj\Debug\net8.0\TesteTarget2024.AssemblyInfo.cs
+C:\dev\TesteTarget2024\TesteTarget2024\obj\Debug\net8.0\TesteTarget2024.csproj.CoreCompileInputs.cache
+C:\dev\TesteTarget2024\TesteTarget2024\obj\Debug\net8.0\TesteTarget2024.dll
+C:\dev\TesteTarget2024\TesteTarget2024\obj\Debug\net8.0\refint\TesteTarget2024.dll
+C:\dev\TesteTarget2024\TesteTarget2024\obj\Debug\net8.0\TesteTarget2024.pdb
+C:\dev\TesteTarget2024\TesteTarget2024\obj\Debug\net8.0\TesteTarget2024.genruntimeconfig.cache
+C:\dev\TesteTarget2024\TesteTarget2024\obj\Debug\net8.0\ref\TesteTarget2024.dll
