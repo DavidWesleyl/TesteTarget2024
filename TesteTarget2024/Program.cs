@@ -55,7 +55,7 @@ internal class Program
 
         Console.WriteLine();
 
-        for (int i = 1; i < 10; i++)
+        for (int i = 1; i < 10; i++) // Aqui é uma contagem apenas até 10, mas pode ser mais números.
         {
             somaNumero = primeiroValor + segundoValor;
             segundoValor = primeiroValor;
@@ -86,7 +86,7 @@ internal class Program
 
 
 
-        static bool Fibonacci(int numero)
+        static bool Fibonacci(int numero) // Aqui foi criado um método Statico, contendo apenas o resultado dos valores, onde se o valor zero for menor que o numero informado, a variável "somaValores" vai receber o valor 0, o zero vai receber o 1 e o seguinte valor será a soma. Somando os antecessores. 
         {
             int primeiroNumero = 0;
             int segundoNumero = 1;
@@ -127,13 +127,13 @@ internal class Program
 
 
 
-        static string Inverter(string frase)
+        static string Inverter(string frase) 
         {
             StringBuilder stringBuilder = new StringBuilder();
 
-            for (int inicio = frase.Length - 1; inicio >= 0; inicio--)
+            for (int inicio = frase.Length - 1; inicio >= 0; inicio--) // aqui a contagem inicia contanto a quantidade de caracteres -1, ou seja, de tras pra frente, onde se a frase for maior que 0 (primeira letra), diminua.
             {
-                stringBuilder.Append(frase[inicio]);
+                stringBuilder.Append(frase[inicio]);  // Aqui utilizei o StringBuilder para capturar a frase.
             }
 
             return stringBuilder.ToString();
