@@ -169,7 +169,7 @@ internal class Program
          * 
          * Honestamente, já havia visto esse desafio, porém a pergunta formulada na questão está confusa, então responderei da forma que sei:
          * 
-         * Ligo a primeira lampada por alguns minutos, depois ligo a segunda. A lampada que estiver quente, corresponde a primeira, a segunda estará acessa e a terceira apagada.
+         * Ligo a primeira lampada por alguns minutos e desligo, depois ligo a segunda. A lampada que estiver quente, corresponde a primeira, a segunda estará acessa e a terceira apagada.
          
          */
 
